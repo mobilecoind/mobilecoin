@@ -1,7 +1,7 @@
 mobilecoin integration/staging tree
 ================================
 
-http://www.mobilecoin.org
+http://www.mobile-coin.org
 
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2013 mobilecoin Developers
@@ -10,16 +10,16 @@ What is mobilecoin?
 ----------------
 
 mobilecoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+ - 1 minute block targets
+ - subsidy halves in 168k blocks (~4 Month)
+ - ~168 billion total coins
 
 The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
+ - 5000 coins per block
+ - 10 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the mobilecoin client sofware, see http://www.mobilecoin.org.
+the mobilecoin client sofware, see http://www.mobile-coin.org.
 
 License
 -------
